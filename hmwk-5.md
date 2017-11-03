@@ -25,4 +25,4 @@ There is not enough information in this dataset alone (I think; I’m no statist
 
 _Note: with a little more time I would also probably clean up this visualization a bit, for example, by grouping all the community boards within the same borough together and ordering them numerically so it’s more clear/intuitive. I would also use the addresses in the dataset to resolve the “unspecified” community boards or just delete them because they add confusion and clutter to the viz. I also want to acknowledge that my Gantt charts looks kind of like Hebrew writing… which would be awesome if it connected to my story somehow, but it doesn’t. :(_
 
-![NYC Water Viz](https://github.com/aharcher/gh-demo/blob/master/imgs/water.png)
+![NYC Water Viz](https://github.com/aharcher/homework/blob/master/imgs/water.png)
