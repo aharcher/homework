@@ -5,12 +5,12 @@
 
 ## INTRODUCTION
 
-_Make a few sketches of the data visualizations that might suit your project, take a photo of those sketches and create a style guide or swatch board (with color palette, fonts, layout indications) in a gist. These can build on your prototype time-series, mapping, or graph visualizations from previous weeks, but should reflect your "ideal" layout and not be limited to what you were able to accomplish in previous weeks. It doesn't have to be as detailed as this one but it should have a few main sections:
+Make a few sketches of the data visualizations that might suit your project, take a photo of those sketches and create a style guide or swatch board (with color palette, fonts, layout indications) in a gist. These can build on your prototype time-series, mapping, or graph visualizations from previous weeks, but should reflect your "ideal" layout and not be limited to what you were able to accomplish in previous weeks. It doesn't have to be as detailed as this one but it should have a few main sections:
 - Colors (hex values chosen)
 - Fonts
 - Template (general layout, with sketches-hand sketched and photographed/embedded in a gist or uploaded somewhere.
 - Description of the dataset(s)
-- Description of the concept and larger narrative - what aspects of your data will this style highlight?_
+- Description of the concept and larger narrative - what aspects of your data will this style highlight?
 
 ## ANALYSIS
 
