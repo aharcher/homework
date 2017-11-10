@@ -32,4 +32,4 @@ __3. Who are the ‘St. Mary’s Park community?’__
 
 For my thesis project I’ve conducted a lot of interviews to acquaint myself with the people who live/work/play in and around St. Mary’s Park. I now know who many of them are as individuals, but it is also important to know who they are as a population and how they are similar to or different from NYC as a whole. For this concept I would create a high-level profile of the ‘St. Mary’s Park community,’ which I will represent with [census data](https://censusreporter.org/profiles/86000US10455-10455/) for zip code 10455 (a walkable-sized area surrounding the Park). Key variables will include race/ethnicity, incomes, % below poverty line, persons per household, language, and place of birth.
 
-_Question: how do I approach making statistically-responsible comparisons between these data?)_
+_Question: how do I approach making statistically-responsible comparisons between these data?_
