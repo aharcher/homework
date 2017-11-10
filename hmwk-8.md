@@ -20,7 +20,7 @@ __1. NYC traffic circumstances that most frequently lead to cyclist injuries__
 This concept would look at patterns in cyclist and/or motorist behavior that lead to cyclist injury most frequently (possible examples: left turns, speeding, leaving the bike lane, door-opening, etc...) This project could help inform responsible motorists when to be more alert for cyclists and help cyclists anticipate the most risky types of traffic scenarios (has this been done already? Seems likely...). The [Vision Zero data feed](http://www.nyc.gov/html/dot/html/about/vz_datafeeds.shtml) and NYC Open Data on all [motor vehicle collisions since 2011](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95/data) provide all the necessary information about when, where, and how injuries to cyclists by motor vehicles occur.
 
 __Style Guide__
-![NYC Water Viz](https://github.com/aharcher/homework/blob/master/imgs/water.png)
+![Cyclist Injuries NYC](https://github.com/aharcher/homework/blob/master/imgs/cyclist_injuries.png)
 
 
 __2. Number and type of crimes reported in NYC Parks from 2014-2017__
